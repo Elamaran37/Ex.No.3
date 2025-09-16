@@ -26,8 +26,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
 * If correct → redirects to dashboard.
 * If incorrect → displays error message *"Invalid username or password"*.
 
-**Illustration:**
-![image](https://i.ibb.co/Zd9h8Mw/straightforward.png)
+
 
 ---
 
@@ -45,8 +44,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
 | Clicks "Add to Cart"                      | Adds item to cart and updates cart icon       |
 | Hovers over navigation                    | Expands dropdown menu                         |
 
-**Illustration:**
-![image](https://i.ibb.co/1KJpNgh/tabular.png)
+
 
 ---
 
@@ -61,8 +59,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
 * Redirects to password recovery page.
 * May ask for security verification before proceeding.
 
-**Illustration:**
-![image](https://i.ibb.co/qCZc9yP/missingword.png)
+
 
 ---
 
@@ -80,8 +77,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
   * Results are retrieved and displayed.
   * If no results, a *"No results found"* message appears.
 
-**Illustration:**
-![image](https://i.ibb.co/jT5m9jr/preceding.png)
+*
 
 ---
 
