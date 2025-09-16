@@ -4,15 +4,7 @@
 ### REGISTER NUMBER : 212223060063
 ### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
-Perfect 👍 You want a **Scenario-Based Report** that shows how *different prompting techniques* can be applied to the scenario:
-
-👉 **"How the software or website reacts to the user's action"**
-
-with **different prompts + outputs + image illustrations**.
-
-Here’s a polished **report-style version**:
-
----
+# Algorithm
 
 # 📑 Scenario-Based Report: Prompt Engineering Techniques Applied to Software/Website Reactions
 
