@@ -27,7 +27,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
 * If incorrect → displays error message *"Invalid username or password"*.
 
 **Illustration:**
-![Straightforward Prompt Example](https://i.ibb.co/Zd9h8Mw/straightforward.png)
+![image](https://i.ibb.co/Zd9h8Mw/straightforward.png)
 
 ---
 
@@ -46,7 +46,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
 | Hovers over navigation                    | Expands dropdown menu                         |
 
 **Illustration:**
-![Tabular Prompt Example](https://i.ibb.co/1KJpNgh/tabular.png)
+![image](https://i.ibb.co/1KJpNgh/tabular.png)
 
 ---
 
@@ -62,7 +62,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
 * May ask for security verification before proceeding.
 
 **Illustration:**
-![Missing Word Prompt Example](https://i.ibb.co/qCZc9yP/missingword.png)
+![image](https://i.ibb.co/qCZc9yP/missingword.png)
 
 ---
 
@@ -81,7 +81,7 @@ In prompt engineering, the phrasing and structure of a prompt greatly influence 
   * If no results, a *"No results found"* message appears.
 
 **Illustration:**
-![Preceding Question Prompt Example](https://i.ibb.co/jT5m9jr/preceding.png)
+![image](https://i.ibb.co/jT5m9jr/preceding.png)
 
 ---
 
